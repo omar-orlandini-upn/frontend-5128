@@ -11,7 +11,7 @@ El frontend está desarrollado con **Angular 19**, y se comunica con un backend 
 
 1. El usuario sube una imagen de un plátano tomada en condiciones controladas (una imagen por día).
 2. La imagen se envía al backend, que ejecuta un modelo de ML previamente entrenado.
-3. El modelo predice el **estado de madurez** del plátano (por ejemplo: verde, en proceso, maduro, pasado).
+3. El modelo predice el **estado** del plátano (por ejemplo: Bueno, maduro, Malogrado).
 4. La predicción se visualiza en la interfaz con indicadores gráficos y texto.
 
 ---
